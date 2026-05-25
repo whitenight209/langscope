@@ -10,6 +10,9 @@
       }
     ],
     "paths": {
+      "@/src/ee/features/*": [
+        "./src/features/ee-compat/*"
+      ],
       "@/*": [
         "./*"
       ]
